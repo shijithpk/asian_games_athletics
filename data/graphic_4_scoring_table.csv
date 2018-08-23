@@ -1,0 +1,44 @@
+gender,event,world_record,national_record,score
+men,100 metres,9.58,10.21,1135
+men,200 metres,19.19,20.66,1118
+men,400 metres,43.03,45.24,1163
+men,800 metres,01:40.91,1:45.65,1154
+men,1500 metres,03:26.00,03:37.86,1136
+men,5000 metres,12:37.35,13:29.70,1104
+men,10000 metres,26:17.53,28:02.89,1128
+men,110 metres hurdles,12.8,13.43,1172
+men,400 metres hurdles,46.78,49.45,1158
+men,3000 m steeplechase,07:53.63,08:30.88,1119
+men,20 km race walk,01:16:36,01:20:21,1184
+men,50 km race walk,03:32:33,3:55:59,1128
+men,Marathon,02:02:57,02:12:00,1126
+men,Long jump,8.95,8.19,1179
+men,Triple jump,18.29,17.3,1197
+men,High jump,2.45,2.29,1170
+men,Discus throw,74.08,66.28,1176
+men,Hammer throw,86.74,72.86,1085
+men,Javelin throw,98.48,87.43,1207
+men,Pole vault,6.16,5.15,1034
+men,Shot put,23.12,20.69,1163
+men,Decathlon,9045,7658,1074
+women,100 metres,10.49,11.24,1148
+women,200 metres,21.34,22.82,1153
+women,400 metres,47.6,51.05,1164
+women,800 metres,01:53.28,01:59.17,1178
+women,1500 metres,03:50.07,04:06.03,1158
+women,5000 metres,14:11.15,15:15.89,1133
+women,10000 metres,29:17.45,31:50.47,1148
+women,100 metres hurdles,12.2,13.38,1099
+women,400 metres hurdles,52.34,55.42,1160
+women,3000 m steeplechase,08:52.78,09:19.76,1195
+women,20 km race walk,01:23:39,01:31:29,1112
+women,Marathon,02:15:25,02:34:43,1087
+women,Long jump,7.52,6.83,1180
+women,Triple jump,15.5,14.11,1129
+women,High jump,2.09,1.92,1140
+women,Discus throw,76.8,64.76,1160
+women,Hammer throw,82.98,65.25,1176
+women,Javelin throw,72.28,61.86,1113
+women,Pole vault,5.06,4.15,1006
+women,Shot put,22.63,18.86,1137
+women,Heptathlon,7291,6211,1117
