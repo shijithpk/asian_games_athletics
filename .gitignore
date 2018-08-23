@@ -1,0 +1,12 @@
+event_pages/
+data/world*.csv
+data/asia_*men_lastGO.csv
+data/asia_*women_lastGO.csv
+data/asia_*men_TopTwo_lastGO.csv
+data/asia_*women_TopTwo_lastGO.csv
+data/national*percentile.csv
+data/national*percentile_deux.csv
+.ipynb_checkpoints/
+data/asia_2016_2018_formatted_lastGO.csv
+data/asia_2016_2018_lastGO.csv
+data/asia_limit_list_lastGO.csv
